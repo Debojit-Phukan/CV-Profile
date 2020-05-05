@@ -56,22 +56,19 @@ body{
 }
 .midcontainer-experiance{
    width:1000px;
-  height: 300px;
-  margin:100px auto 100px auto;
+  height: 350px;
   background-color: #c3edea;
   float: left;
 }
 .sidecontainer-experiance{
   width:200px;
-  height: 300px;
-  margin:100px auto 100px auto;
+  height: 350px;
   background-color: #c3edea;
   float: left;
 }
 .middlecontainer-experiance{
   width:600px;
-  height:300px;
-  margin:100px auto 100px auto;
+  height:350px;
   background-color: #c3edea;
   float:left;
 }
